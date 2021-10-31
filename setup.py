@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(name="keyBinder",
     version="0.0.1",
-    author="MyBadProjects",
+    author="MyBadProjects/roadpepe",
     author_email="cheems@cheems.website",
     description="A simple key binding package.",
     long_description="A simple package which allows you to bind keys to functions.",
