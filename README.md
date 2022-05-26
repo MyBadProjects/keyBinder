@@ -1,4 +1,4 @@
-# keyBinder
+# KeyBinder
 This is a Python (3.9.4) module which binds a function to a key. It has been tested on Linux (requires console to be open but not focued) and works *perfectly* from my testing.
 
 ## How it works
@@ -15,3 +15,5 @@ def __init__(self, key='q', callback=print, rappid_fire=False, print_data=True, 
 
 So to use this you would have to do `Bind('q', print)` to print the key (q) when pressed.
 There is nothing else to the script as it is just a single class for simplisity!
+
+*Note: This was unarchived for a minute on 27/05/2022 to rename the project from keyBinder, to KeyBinder - fitting my Github's naming style.*
